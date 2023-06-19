@@ -1,4 +1,4 @@
-baseURL = "https://alexwonseokcho.github.io/"
+baseURL = "https://alexwonseokcho.github.io/personal-website/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
