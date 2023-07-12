@@ -3,7 +3,7 @@ title: Alex Cho
 enableToc: false 
 ---
 
-Hi! I'm a 2nd year [Engineering Science](notes/EngSci) student at the University of Toronto. My interests include [Deep Learning](Deep Learning/deep learning)
+Hi! I'm a 2nd year [Engineering Science](notes/University/EngSci) student at the University of Toronto. My interests include [Deep Learning](Deep Learning/deep learning)
 [[notes/hosting]]
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
