@@ -12,20 +12,11 @@ The purpose of this website is to provide a glimpse into several aspects of myse
 ## How to navigate the website 
 Here, you'll find everything from my [resume](professional/resume.md) and [portfolio](professional/portfolio.md) to [personal projects](personal projects/electronics), [written tutorials](personal projects/tutorials), [school notes](notes/lecture.md), and even blogs and random snippets of content. <-- link this now
 
-Each webpage is 
+There are three main ways of navigating this website.
+1. At the bottom of every webpage, there is an interactive graph that links every webpage to each other. Any type of graph-traversal algorithm may be used to search the website. 
+2. While reading articles, there are several hyperlinks which each lead to their own webpage regarding the topic. One could play a game of [The Wiki Game](https://www.thewikigame.com/) to delve deeper and deeper into some [obscure corner of my spleen](https://www.poetryfoundation.org/poetrymagazine/poems/37695/forgetfulness).
+3. On the bottom of the main webpage, there is a section that outlines my most recent posts. 
 
-
-[[notes/hosting]]
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
-
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
-> dsflksdjf
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup%20KEKEKEK.md)
 
 
 
