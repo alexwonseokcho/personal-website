@@ -9,7 +9,7 @@ Hi! I'm a 2nd year [Engineering Science](notes/University/EngSci.md) student at 
 
 The purpose of this website is to provide a glimpse into several aspects of myself from my professional career to my random activities on a Sunday afternoon. 
 
-## How to navigate the website 
+## Ways to Navigate the Website 
 Here, you'll find everything from my [resume](professional/resume.md) and [portfolio](professional/portfolio.md) to [personal projects](personal projects/electronics), [written tutorials](personal projects/tutorials), [school notes](notes/lecture.md), and even blogs and random snippets of content. <-- link this now
 
 There are three main ways of navigating this website.
