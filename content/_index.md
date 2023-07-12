@@ -3,7 +3,18 @@ title: Alex Cho
 enableToc: false 
 ---
 
-Hi! I'm a 2nd year [Engineering Science](notes/University/EngSci) student at the University of Toronto. My interests include [Deep Learning](deep_learning/deep-learning)
+ADD PROFILE IMAGE AND MY NAME UNDERNEATH
+
+Hi! I'm a 2nd year [Engineering Science](notes/University/EngSci.md) student at the University of Toronto. My interests and hobbies include [Deep Learning](deep%20learning/deep%20learning.md), [Electronics and Microcontroller Projects](personal%20projects/electronics.md), [Computer Hardware](computer%20building/computer%20building), [Golf](hobbies/golf,md), and [Valorant](hobbies/valorant.md).
+
+The purpose of this website is to provide a glimpse into several aspects of myself from my professional career to my random activities on a Sunday afternoon. 
+
+## How to navigate the website 
+Here, you'll find everything from my [resume](professional/resume.md) and [portfolio](professional/portfolio.md) to [personal projects](personal projects/electronics), [written tutorials](personal projects/tutorials), [school notes](notes/lecture.md), and even blogs and random snippets of content. <-- link this now
+
+Each webpage is 
+
+
 [[notes/hosting]]
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
@@ -17,14 +28,4 @@ Check out some of the [amazing gardens that community members](notes/showcase.md
 > 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup%20KEKEKEK.md)
 
 
-x^2^
-~~The world is flat.~~
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
